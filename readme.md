@@ -2,7 +2,7 @@
 
 Hello there! :wave:
 
-My name is Athanasios (Thanasis) and I am a 4th year computer science student at Harokopio University of Athens!
+My name is Athanasios (Thanasis) and I am a computer science graduate from Harokopio University of Athens!
 
 In my profile you can take a look at some assignements i have submimted for classes(mostly), as well as some personal projects of mine.
 
